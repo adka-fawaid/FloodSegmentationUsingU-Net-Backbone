@@ -1,0 +1,2 @@
+epoch,train_loss,val_iou,val_dice,val_accuracy,val_precision,val_recall,val_f1,learning_rate
+1,0.202,0.6171,0.7477,0.7728,0.6749,0.8929,0.7477,0.0002
