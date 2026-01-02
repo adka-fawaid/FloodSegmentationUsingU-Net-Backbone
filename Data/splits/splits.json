@@ -1,0 +1,1468 @@
+{
+  "train": [
+    {
+      "id": "1081",
+      "image": "Data/raw/Image\\1081.jpg",
+      "mask": "Data/raw/Mask\\1081.png"
+    },
+    {
+      "id": "3092",
+      "image": "Data/raw/Image\\3092.jpg",
+      "mask": "Data/raw/Mask\\3092.png"
+    },
+    {
+      "id": "1042",
+      "image": "Data/raw/Image\\1042.jpg",
+      "mask": "Data/raw/Mask\\1042.png"
+    },
+    {
+      "id": "3009",
+      "image": "Data/raw/Image\\3009.jpg",
+      "mask": "Data/raw/Mask\\3009.png"
+    },
+    {
+      "id": "2042",
+      "image": "Data/raw/Image\\2042.jpg",
+      "mask": "Data/raw/Mask\\2042.png"
+    },
+    {
+      "id": "2024",
+      "image": "Data/raw/Image\\2024.jpg",
+      "mask": "Data/raw/Mask\\2024.png"
+    },
+    {
+      "id": "3058",
+      "image": "Data/raw/Image\\3058.jpg",
+      "mask": "Data/raw/Mask\\3058.png"
+    },
+    {
+      "id": "2017",
+      "image": "Data/raw/Image\\2017.jpg",
+      "mask": "Data/raw/Mask\\2017.png"
+    },
+    {
+      "id": "1006",
+      "image": "Data/raw/Image\\1006.jpg",
+      "mask": "Data/raw/Mask\\1006.png"
+    },
+    {
+      "id": "1087",
+      "image": "Data/raw/Image\\1087.jpg",
+      "mask": "Data/raw/Mask\\1087.png"
+    },
+    {
+      "id": "2046",
+      "image": "Data/raw/Image\\2046.jpg",
+      "mask": "Data/raw/Mask\\2046.png"
+    },
+    {
+      "id": "39",
+      "image": "Data/raw/Image\\39.jpg",
+      "mask": "Data/raw/Mask\\39.png"
+    },
+    {
+      "id": "1030",
+      "image": "Data/raw/Image\\1030.jpg",
+      "mask": "Data/raw/Mask\\1030.png"
+    },
+    {
+      "id": "43",
+      "image": "Data/raw/Image\\43.jpg",
+      "mask": "Data/raw/Mask\\43.png"
+    },
+    {
+      "id": "3052",
+      "image": "Data/raw/Image\\3052.jpg",
+      "mask": "Data/raw/Mask\\3052.png"
+    },
+    {
+      "id": "1074",
+      "image": "Data/raw/Image\\1074.jpg",
+      "mask": "Data/raw/Mask\\1074.png"
+    },
+    {
+      "id": "1043",
+      "image": "Data/raw/Image\\1043.jpg",
+      "mask": "Data/raw/Mask\\1043.png"
+    },
+    {
+      "id": "1002",
+      "image": "Data/raw/Image\\1002.jpg",
+      "mask": "Data/raw/Mask\\1002.png"
+    },
+    {
+      "id": "3062",
+      "image": "Data/raw/Image\\3062.jpg",
+      "mask": "Data/raw/Mask\\3062.png"
+    },
+    {
+      "id": "3087",
+      "image": "Data/raw/Image\\3087.jpg",
+      "mask": "Data/raw/Mask\\3087.png"
+    },
+    {
+      "id": "2023",
+      "image": "Data/raw/Image\\2023.jpg",
+      "mask": "Data/raw/Mask\\2023.png"
+    },
+    {
+      "id": "8",
+      "image": "Data/raw/Image\\8.jpg",
+      "mask": "Data/raw/Mask\\8.png"
+    },
+    {
+      "id": "41",
+      "image": "Data/raw/Image\\41.jpg",
+      "mask": "Data/raw/Mask\\41.png"
+    },
+    {
+      "id": "20",
+      "image": "Data/raw/Image\\20.jpg",
+      "mask": "Data/raw/Mask\\20.png"
+    },
+    {
+      "id": "1072",
+      "image": "Data/raw/Image\\1072.jpg",
+      "mask": "Data/raw/Mask\\1072.png"
+    },
+    {
+      "id": "35",
+      "image": "Data/raw/Image\\35.jpg",
+      "mask": "Data/raw/Mask\\35.png"
+    },
+    {
+      "id": "38",
+      "image": "Data/raw/Image\\38.jpg",
+      "mask": "Data/raw/Mask\\38.png"
+    },
+    {
+      "id": "2008",
+      "image": "Data/raw/Image\\2008.jpg",
+      "mask": "Data/raw/Mask\\2008.png"
+    },
+    {
+      "id": "1057",
+      "image": "Data/raw/Image\\1057.jpg",
+      "mask": "Data/raw/Mask\\1057.png"
+    },
+    {
+      "id": "3060",
+      "image": "Data/raw/Image\\3060.jpg",
+      "mask": "Data/raw/Mask\\3060.png"
+    },
+    {
+      "id": "1039",
+      "image": "Data/raw/Image\\1039.jpg",
+      "mask": "Data/raw/Mask\\1039.png"
+    },
+    {
+      "id": "1053",
+      "image": "Data/raw/Image\\1053.jpg",
+      "mask": "Data/raw/Mask\\1053.png"
+    },
+    {
+      "id": "47",
+      "image": "Data/raw/Image\\47.jpg",
+      "mask": "Data/raw/Mask\\47.png"
+    },
+    {
+      "id": "2016",
+      "image": "Data/raw/Image\\2016.jpg",
+      "mask": "Data/raw/Mask\\2016.png"
+    },
+    {
+      "id": "3089",
+      "image": "Data/raw/Image\\3089.jpg",
+      "mask": "Data/raw/Mask\\3089.png"
+    },
+    {
+      "id": "30",
+      "image": "Data/raw/Image\\30.jpg",
+      "mask": "Data/raw/Mask\\30.png"
+    },
+    {
+      "id": "44",
+      "image": "Data/raw/Image\\44.jpg",
+      "mask": "Data/raw/Mask\\44.png"
+    },
+    {
+      "id": "2012",
+      "image": "Data/raw/Image\\2012.jpg",
+      "mask": "Data/raw/Mask\\2012.png"
+    },
+    {
+      "id": "25",
+      "image": "Data/raw/Image\\25.jpg",
+      "mask": "Data/raw/Mask\\25.png"
+    },
+    {
+      "id": "1060",
+      "image": "Data/raw/Image\\1060.jpg",
+      "mask": "Data/raw/Mask\\1060.png"
+    },
+    {
+      "id": "2045",
+      "image": "Data/raw/Image\\2045.jpg",
+      "mask": "Data/raw/Mask\\2045.png"
+    },
+    {
+      "id": "1063",
+      "image": "Data/raw/Image\\1063.jpg",
+      "mask": "Data/raw/Mask\\1063.png"
+    },
+    {
+      "id": "33",
+      "image": "Data/raw/Image\\33.jpg",
+      "mask": "Data/raw/Mask\\33.png"
+    },
+    {
+      "id": "24",
+      "image": "Data/raw/Image\\24.jpg",
+      "mask": "Data/raw/Mask\\24.png"
+    },
+    {
+      "id": "3014",
+      "image": "Data/raw/Image\\3014.jpg",
+      "mask": "Data/raw/Mask\\3014.png"
+    },
+    {
+      "id": "1027",
+      "image": "Data/raw/Image\\1027.jpg",
+      "mask": "Data/raw/Mask\\1027.png"
+    },
+    {
+      "id": "1019",
+      "image": "Data/raw/Image\\1019.jpg",
+      "mask": "Data/raw/Mask\\1019.png"
+    },
+    {
+      "id": "1021",
+      "image": "Data/raw/Image\\1021.jpg",
+      "mask": "Data/raw/Mask\\1021.png"
+    },
+    {
+      "id": "3059",
+      "image": "Data/raw/Image\\3059.jpg",
+      "mask": "Data/raw/Mask\\3059.png"
+    },
+    {
+      "id": "2018",
+      "image": "Data/raw/Image\\2018.jpg",
+      "mask": "Data/raw/Mask\\2018.png"
+    },
+    {
+      "id": "3031",
+      "image": "Data/raw/Image\\3031.jpg",
+      "mask": "Data/raw/Mask\\3031.png"
+    },
+    {
+      "id": "1076",
+      "image": "Data/raw/Image\\1076.jpg",
+      "mask": "Data/raw/Mask\\1076.png"
+    },
+    {
+      "id": "1014",
+      "image": "Data/raw/Image\\1014.jpg",
+      "mask": "Data/raw/Mask\\1014.png"
+    },
+    {
+      "id": "3076",
+      "image": "Data/raw/Image\\3076.jpg",
+      "mask": "Data/raw/Mask\\3076.png"
+    },
+    {
+      "id": "3045",
+      "image": "Data/raw/Image\\3045.jpg",
+      "mask": "Data/raw/Mask\\3045.png"
+    },
+    {
+      "id": "3010",
+      "image": "Data/raw/Image\\3010.jpg",
+      "mask": "Data/raw/Mask\\3010.png"
+    },
+    {
+      "id": "3016",
+      "image": "Data/raw/Image\\3016.jpg",
+      "mask": "Data/raw/Mask\\3016.png"
+    },
+    {
+      "id": "3002",
+      "image": "Data/raw/Image\\3002.jpg",
+      "mask": "Data/raw/Mask\\3002.png"
+    },
+    {
+      "id": "1003",
+      "image": "Data/raw/Image\\1003.jpg",
+      "mask": "Data/raw/Mask\\1003.png"
+    },
+    {
+      "id": "3043",
+      "image": "Data/raw/Image\\3043.jpg",
+      "mask": "Data/raw/Mask\\3043.png"
+    },
+    {
+      "id": "3057",
+      "image": "Data/raw/Image\\3057.jpg",
+      "mask": "Data/raw/Mask\\3057.png"
+    },
+    {
+      "id": "3095",
+      "image": "Data/raw/Image\\3095.jpg",
+      "mask": "Data/raw/Mask\\3095.png"
+    },
+    {
+      "id": "1070",
+      "image": "Data/raw/Image\\1070.jpg",
+      "mask": "Data/raw/Mask\\1070.png"
+    },
+    {
+      "id": "1022",
+      "image": "Data/raw/Image\\1022.jpg",
+      "mask": "Data/raw/Mask\\1022.png"
+    },
+    {
+      "id": "2011",
+      "image": "Data/raw/Image\\2011.jpg",
+      "mask": "Data/raw/Mask\\2011.png"
+    },
+    {
+      "id": "2047",
+      "image": "Data/raw/Image\\2047.jpg",
+      "mask": "Data/raw/Mask\\2047.png"
+    },
+    {
+      "id": "1069",
+      "image": "Data/raw/Image\\1069.jpg",
+      "mask": "Data/raw/Mask\\1069.png"
+    },
+    {
+      "id": "1016",
+      "image": "Data/raw/Image\\1016.jpg",
+      "mask": "Data/raw/Mask\\1016.png"
+    },
+    {
+      "id": "2013",
+      "image": "Data/raw/Image\\2013.jpg",
+      "mask": "Data/raw/Mask\\2013.png"
+    },
+    {
+      "id": "13",
+      "image": "Data/raw/Image\\13.jpg",
+      "mask": "Data/raw/Mask\\13.png"
+    },
+    {
+      "id": "1012",
+      "image": "Data/raw/Image\\1012.jpg",
+      "mask": "Data/raw/Mask\\1012.png"
+    },
+    {
+      "id": "1007",
+      "image": "Data/raw/Image\\1007.jpg",
+      "mask": "Data/raw/Mask\\1007.png"
+    },
+    {
+      "id": "1079",
+      "image": "Data/raw/Image\\1079.jpg",
+      "mask": "Data/raw/Mask\\1079.png"
+    },
+    {
+      "id": "1065",
+      "image": "Data/raw/Image\\1065.jpg",
+      "mask": "Data/raw/Mask\\1065.png"
+    },
+    {
+      "id": "3042",
+      "image": "Data/raw/Image\\3042.jpg",
+      "mask": "Data/raw/Mask\\3042.png"
+    },
+    {
+      "id": "1034",
+      "image": "Data/raw/Image\\1034.jpg",
+      "mask": "Data/raw/Mask\\1034.png"
+    },
+    {
+      "id": "1013",
+      "image": "Data/raw/Image\\1013.jpg",
+      "mask": "Data/raw/Mask\\1013.png"
+    },
+    {
+      "id": "7",
+      "image": "Data/raw/Image\\7.jpg",
+      "mask": "Data/raw/Mask\\7.png"
+    },
+    {
+      "id": "2039",
+      "image": "Data/raw/Image\\2039.jpg",
+      "mask": "Data/raw/Mask\\2039.png"
+    },
+    {
+      "id": "3096",
+      "image": "Data/raw/Image\\3096.jpg",
+      "mask": "Data/raw/Mask\\3096.png"
+    },
+    {
+      "id": "1064",
+      "image": "Data/raw/Image\\1064.jpg",
+      "mask": "Data/raw/Mask\\1064.png"
+    },
+    {
+      "id": "5",
+      "image": "Data/raw/Image\\5.jpg",
+      "mask": "Data/raw/Mask\\5.png"
+    },
+    {
+      "id": "2025",
+      "image": "Data/raw/Image\\2025.jpg",
+      "mask": "Data/raw/Mask\\2025.png"
+    },
+    {
+      "id": "2036",
+      "image": "Data/raw/Image\\2036.jpg",
+      "mask": "Data/raw/Mask\\2036.png"
+    },
+    {
+      "id": "2010",
+      "image": "Data/raw/Image\\2010.jpg",
+      "mask": "Data/raw/Mask\\2010.png"
+    },
+    {
+      "id": "3044",
+      "image": "Data/raw/Image\\3044.jpg",
+      "mask": "Data/raw/Mask\\3044.png"
+    },
+    {
+      "id": "2051",
+      "image": "Data/raw/Image\\2051.jpg",
+      "mask": "Data/raw/Mask\\2051.png"
+    },
+    {
+      "id": "1015",
+      "image": "Data/raw/Image\\1015.jpg",
+      "mask": "Data/raw/Mask\\1015.png"
+    },
+    {
+      "id": "40",
+      "image": "Data/raw/Image\\40.jpg",
+      "mask": "Data/raw/Mask\\40.png"
+    },
+    {
+      "id": "1083",
+      "image": "Data/raw/Image\\1083.jpg",
+      "mask": "Data/raw/Mask\\1083.png"
+    },
+    {
+      "id": "3061",
+      "image": "Data/raw/Image\\3061.jpg",
+      "mask": "Data/raw/Mask\\3061.png"
+    },
+    {
+      "id": "12",
+      "image": "Data/raw/Image\\12.jpg",
+      "mask": "Data/raw/Mask\\12.png"
+    },
+    {
+      "id": "17",
+      "image": "Data/raw/Image\\17.jpg",
+      "mask": "Data/raw/Mask\\17.png"
+    },
+    {
+      "id": "2007",
+      "image": "Data/raw/Image\\2007.jpg",
+      "mask": "Data/raw/Mask\\2007.png"
+    },
+    {
+      "id": "3046",
+      "image": "Data/raw/Image\\3046.jpg",
+      "mask": "Data/raw/Mask\\3046.png"
+    },
+    {
+      "id": "1052",
+      "image": "Data/raw/Image\\1052.jpg",
+      "mask": "Data/raw/Mask\\1052.png"
+    },
+    {
+      "id": "3018",
+      "image": "Data/raw/Image\\3018.jpg",
+      "mask": "Data/raw/Mask\\3018.png"
+    },
+    {
+      "id": "3066",
+      "image": "Data/raw/Image\\3066.jpg",
+      "mask": "Data/raw/Mask\\3066.png"
+    },
+    {
+      "id": "1035",
+      "image": "Data/raw/Image\\1035.jpg",
+      "mask": "Data/raw/Mask\\1035.png"
+    },
+    {
+      "id": "3012",
+      "image": "Data/raw/Image\\3012.jpg",
+      "mask": "Data/raw/Mask\\3012.png"
+    },
+    {
+      "id": "3004",
+      "image": "Data/raw/Image\\3004.jpg",
+      "mask": "Data/raw/Mask\\3004.png"
+    },
+    {
+      "id": "1054",
+      "image": "Data/raw/Image\\1054.jpg",
+      "mask": "Data/raw/Mask\\1054.png"
+    },
+    {
+      "id": "2015",
+      "image": "Data/raw/Image\\2015.jpg",
+      "mask": "Data/raw/Mask\\2015.png"
+    },
+    {
+      "id": "2053",
+      "image": "Data/raw/Image\\2053.jpg",
+      "mask": "Data/raw/Mask\\2053.png"
+    },
+    {
+      "id": "23",
+      "image": "Data/raw/Image\\23.jpg",
+      "mask": "Data/raw/Mask\\23.png"
+    },
+    {
+      "id": "3028",
+      "image": "Data/raw/Image\\3028.jpg",
+      "mask": "Data/raw/Mask\\3028.png"
+    },
+    {
+      "id": "3047",
+      "image": "Data/raw/Image\\3047.jpg",
+      "mask": "Data/raw/Mask\\3047.png"
+    },
+    {
+      "id": "1028",
+      "image": "Data/raw/Image\\1028.jpg",
+      "mask": "Data/raw/Mask\\1028.png"
+    },
+    {
+      "id": "34",
+      "image": "Data/raw/Image\\34.jpg",
+      "mask": "Data/raw/Mask\\34.png"
+    },
+    {
+      "id": "1075",
+      "image": "Data/raw/Image\\1075.jpg",
+      "mask": "Data/raw/Mask\\1075.png"
+    },
+    {
+      "id": "3040",
+      "image": "Data/raw/Image\\3040.jpg",
+      "mask": "Data/raw/Mask\\3040.png"
+    },
+    {
+      "id": "3011",
+      "image": "Data/raw/Image\\3011.jpg",
+      "mask": "Data/raw/Mask\\3011.png"
+    },
+    {
+      "id": "3063",
+      "image": "Data/raw/Image\\3063.jpg",
+      "mask": "Data/raw/Mask\\3063.png"
+    },
+    {
+      "id": "3097",
+      "image": "Data/raw/Image\\3097.jpg",
+      "mask": "Data/raw/Mask\\3097.png"
+    },
+    {
+      "id": "16",
+      "image": "Data/raw/Image\\16.jpg",
+      "mask": "Data/raw/Mask\\16.png"
+    },
+    {
+      "id": "3006",
+      "image": "Data/raw/Image\\3006.jpg",
+      "mask": "Data/raw/Mask\\3006.png"
+    },
+    {
+      "id": "2031",
+      "image": "Data/raw/Image\\2031.jpg",
+      "mask": "Data/raw/Mask\\2031.png"
+    },
+    {
+      "id": "3029",
+      "image": "Data/raw/Image\\3029.jpg",
+      "mask": "Data/raw/Mask\\3029.png"
+    },
+    {
+      "id": "3001",
+      "image": "Data/raw/Image\\3001.jpg",
+      "mask": "Data/raw/Mask\\3001.png"
+    },
+    {
+      "id": "3013",
+      "image": "Data/raw/Image\\3013.jpg",
+      "mask": "Data/raw/Mask\\3013.png"
+    },
+    {
+      "id": "1066",
+      "image": "Data/raw/Image\\1066.jpg",
+      "mask": "Data/raw/Mask\\1066.png"
+    },
+    {
+      "id": "3070",
+      "image": "Data/raw/Image\\3070.jpg",
+      "mask": "Data/raw/Mask\\3070.png"
+    },
+    {
+      "id": "10",
+      "image": "Data/raw/Image\\10.jpg",
+      "mask": "Data/raw/Mask\\10.png"
+    },
+    {
+      "id": "2003",
+      "image": "Data/raw/Image\\2003.jpg",
+      "mask": "Data/raw/Mask\\2003.png"
+    },
+    {
+      "id": "1073",
+      "image": "Data/raw/Image\\1073.jpg",
+      "mask": "Data/raw/Mask\\1073.png"
+    },
+    {
+      "id": "2014",
+      "image": "Data/raw/Image\\2014.jpg",
+      "mask": "Data/raw/Mask\\2014.png"
+    },
+    {
+      "id": "3082",
+      "image": "Data/raw/Image\\3082.jpg",
+      "mask": "Data/raw/Mask\\3082.png"
+    },
+    {
+      "id": "3",
+      "image": "Data/raw/Image\\3.jpg",
+      "mask": "Data/raw/Mask\\3.png"
+    },
+    {
+      "id": "3020",
+      "image": "Data/raw/Image\\3020.jpg",
+      "mask": "Data/raw/Mask\\3020.png"
+    },
+    {
+      "id": "2019",
+      "image": "Data/raw/Image\\2019.jpg",
+      "mask": "Data/raw/Mask\\2019.png"
+    },
+    {
+      "id": "3027",
+      "image": "Data/raw/Image\\3027.jpg",
+      "mask": "Data/raw/Mask\\3027.png"
+    },
+    {
+      "id": "3080",
+      "image": "Data/raw/Image\\3080.jpg",
+      "mask": "Data/raw/Mask\\3080.png"
+    },
+    {
+      "id": "2026",
+      "image": "Data/raw/Image\\2026.jpg",
+      "mask": "Data/raw/Mask\\2026.png"
+    },
+    {
+      "id": "1071",
+      "image": "Data/raw/Image\\1071.jpg",
+      "mask": "Data/raw/Mask\\1071.png"
+    },
+    {
+      "id": "1026",
+      "image": "Data/raw/Image\\1026.jpg",
+      "mask": "Data/raw/Mask\\1026.png"
+    },
+    {
+      "id": "3081",
+      "image": "Data/raw/Image\\3081.jpg",
+      "mask": "Data/raw/Mask\\3081.png"
+    },
+    {
+      "id": "3056",
+      "image": "Data/raw/Image\\3056.jpg",
+      "mask": "Data/raw/Mask\\3056.png"
+    },
+    {
+      "id": "2006",
+      "image": "Data/raw/Image\\2006.jpg",
+      "mask": "Data/raw/Mask\\2006.png"
+    },
+    {
+      "id": "2038",
+      "image": "Data/raw/Image\\2038.jpg",
+      "mask": "Data/raw/Mask\\2038.png"
+    },
+    {
+      "id": "2043",
+      "image": "Data/raw/Image\\2043.jpg",
+      "mask": "Data/raw/Mask\\2043.png"
+    },
+    {
+      "id": "3065",
+      "image": "Data/raw/Image\\3065.jpg",
+      "mask": "Data/raw/Mask\\3065.png"
+    },
+    {
+      "id": "3007",
+      "image": "Data/raw/Image\\3007.jpg",
+      "mask": "Data/raw/Mask\\3007.png"
+    },
+    {
+      "id": "46",
+      "image": "Data/raw/Image\\46.jpg",
+      "mask": "Data/raw/Mask\\46.png"
+    },
+    {
+      "id": "1062",
+      "image": "Data/raw/Image\\1062.jpg",
+      "mask": "Data/raw/Mask\\1062.png"
+    },
+    {
+      "id": "3015",
+      "image": "Data/raw/Image\\3015.jpg",
+      "mask": "Data/raw/Mask\\3015.png"
+    },
+    {
+      "id": "1082",
+      "image": "Data/raw/Image\\1082.jpg",
+      "mask": "Data/raw/Mask\\1082.png"
+    },
+    {
+      "id": "3030",
+      "image": "Data/raw/Image\\3030.jpg",
+      "mask": "Data/raw/Mask\\3030.png"
+    },
+    {
+      "id": "1009",
+      "image": "Data/raw/Image\\1009.jpg",
+      "mask": "Data/raw/Mask\\1009.png"
+    },
+    {
+      "id": "1032",
+      "image": "Data/raw/Image\\1032.jpg",
+      "mask": "Data/raw/Mask\\1032.png"
+    },
+    {
+      "id": "1025",
+      "image": "Data/raw/Image\\1025.jpg",
+      "mask": "Data/raw/Mask\\1025.png"
+    },
+    {
+      "id": "2041",
+      "image": "Data/raw/Image\\2041.jpg",
+      "mask": "Data/raw/Mask\\2041.png"
+    },
+    {
+      "id": "3074",
+      "image": "Data/raw/Image\\3074.jpg",
+      "mask": "Data/raw/Mask\\3074.png"
+    },
+    {
+      "id": "3067",
+      "image": "Data/raw/Image\\3067.jpg",
+      "mask": "Data/raw/Mask\\3067.png"
+    },
+    {
+      "id": "21",
+      "image": "Data/raw/Image\\21.jpg",
+      "mask": "Data/raw/Mask\\21.png"
+    },
+    {
+      "id": "1048",
+      "image": "Data/raw/Image\\1048.jpg",
+      "mask": "Data/raw/Mask\\1048.png"
+    },
+    {
+      "id": "15",
+      "image": "Data/raw/Image\\15.jpg",
+      "mask": "Data/raw/Mask\\15.png"
+    },
+    {
+      "id": "4",
+      "image": "Data/raw/Image\\4.jpg",
+      "mask": "Data/raw/Mask\\4.png"
+    },
+    {
+      "id": "3037",
+      "image": "Data/raw/Image\\3037.jpg",
+      "mask": "Data/raw/Mask\\3037.png"
+    },
+    {
+      "id": "1038",
+      "image": "Data/raw/Image\\1038.jpg",
+      "mask": "Data/raw/Mask\\1038.png"
+    },
+    {
+      "id": "3084",
+      "image": "Data/raw/Image\\3084.jpg",
+      "mask": "Data/raw/Mask\\3084.png"
+    },
+    {
+      "id": "3034",
+      "image": "Data/raw/Image\\3034.jpg",
+      "mask": "Data/raw/Mask\\3034.png"
+    },
+    {
+      "id": "2035",
+      "image": "Data/raw/Image\\2035.jpg",
+      "mask": "Data/raw/Mask\\2035.png"
+    },
+    {
+      "id": "1023",
+      "image": "Data/raw/Image\\1023.jpg",
+      "mask": "Data/raw/Mask\\1023.png"
+    },
+    {
+      "id": "48",
+      "image": "Data/raw/Image\\48.jpg",
+      "mask": "Data/raw/Mask\\48.png"
+    },
+    {
+      "id": "2040",
+      "image": "Data/raw/Image\\2040.jpg",
+      "mask": "Data/raw/Mask\\2040.png"
+    },
+    {
+      "id": "3017",
+      "image": "Data/raw/Image\\3017.jpg",
+      "mask": "Data/raw/Mask\\3017.png"
+    },
+    {
+      "id": "0",
+      "image": "Data/raw/Image\\0.jpg",
+      "mask": "Data/raw/Mask\\0.png"
+    },
+    {
+      "id": "3094",
+      "image": "Data/raw/Image\\3094.jpg",
+      "mask": "Data/raw/Mask\\3094.png"
+    },
+    {
+      "id": "2",
+      "image": "Data/raw/Image\\2.jpg",
+      "mask": "Data/raw/Mask\\2.png"
+    },
+    {
+      "id": "3073",
+      "image": "Data/raw/Image\\3073.jpg",
+      "mask": "Data/raw/Mask\\3073.png"
+    },
+    {
+      "id": "3068",
+      "image": "Data/raw/Image\\3068.jpg",
+      "mask": "Data/raw/Mask\\3068.png"
+    },
+    {
+      "id": "18",
+      "image": "Data/raw/Image\\18.jpg",
+      "mask": "Data/raw/Mask\\18.png"
+    },
+    {
+      "id": "1033",
+      "image": "Data/raw/Image\\1033.jpg",
+      "mask": "Data/raw/Mask\\1033.png"
+    },
+    {
+      "id": "1058",
+      "image": "Data/raw/Image\\1058.jpg",
+      "mask": "Data/raw/Mask\\1058.png"
+    },
+    {
+      "id": "2049",
+      "image": "Data/raw/Image\\2049.jpg",
+      "mask": "Data/raw/Mask\\2049.png"
+    },
+    {
+      "id": "3050",
+      "image": "Data/raw/Image\\3050.jpg",
+      "mask": "Data/raw/Mask\\3050.png"
+    },
+    {
+      "id": "3019",
+      "image": "Data/raw/Image\\3019.jpg",
+      "mask": "Data/raw/Mask\\3019.png"
+    },
+    {
+      "id": "3055",
+      "image": "Data/raw/Image\\3055.jpg",
+      "mask": "Data/raw/Mask\\3055.png"
+    },
+    {
+      "id": "1008",
+      "image": "Data/raw/Image\\1008.jpg",
+      "mask": "Data/raw/Mask\\1008.png"
+    },
+    {
+      "id": "6",
+      "image": "Data/raw/Image\\6.jpg",
+      "mask": "Data/raw/Mask\\6.png"
+    },
+    {
+      "id": "3093",
+      "image": "Data/raw/Image\\3093.jpg",
+      "mask": "Data/raw/Mask\\3093.png"
+    },
+    {
+      "id": "1024",
+      "image": "Data/raw/Image\\1024.jpg",
+      "mask": "Data/raw/Mask\\1024.png"
+    },
+    {
+      "id": "3036",
+      "image": "Data/raw/Image\\3036.jpg",
+      "mask": "Data/raw/Mask\\3036.png"
+    },
+    {
+      "id": "1001",
+      "image": "Data/raw/Image\\1001.jpg",
+      "mask": "Data/raw/Mask\\1001.png"
+    },
+    {
+      "id": "2021",
+      "image": "Data/raw/Image\\2021.jpg",
+      "mask": "Data/raw/Mask\\2021.png"
+    },
+    {
+      "id": "1029",
+      "image": "Data/raw/Image\\1029.jpg",
+      "mask": "Data/raw/Mask\\1029.png"
+    },
+    {
+      "id": "3038",
+      "image": "Data/raw/Image\\3038.jpg",
+      "mask": "Data/raw/Mask\\3038.png"
+    },
+    {
+      "id": "28",
+      "image": "Data/raw/Image\\28.jpg",
+      "mask": "Data/raw/Mask\\28.png"
+    },
+    {
+      "id": "3026",
+      "image": "Data/raw/Image\\3026.jpg",
+      "mask": "Data/raw/Mask\\3026.png"
+    },
+    {
+      "id": "3071",
+      "image": "Data/raw/Image\\3071.jpg",
+      "mask": "Data/raw/Mask\\3071.png"
+    },
+    {
+      "id": "2037",
+      "image": "Data/raw/Image\\2037.jpg",
+      "mask": "Data/raw/Mask\\2037.png"
+    },
+    {
+      "id": "1059",
+      "image": "Data/raw/Image\\1059.jpg",
+      "mask": "Data/raw/Mask\\1059.png"
+    },
+    {
+      "id": "2034",
+      "image": "Data/raw/Image\\2034.jpg",
+      "mask": "Data/raw/Mask\\2034.png"
+    },
+    {
+      "id": "2027",
+      "image": "Data/raw/Image\\2027.jpg",
+      "mask": "Data/raw/Mask\\2027.png"
+    },
+    {
+      "id": "45",
+      "image": "Data/raw/Image\\45.jpg",
+      "mask": "Data/raw/Mask\\45.png"
+    },
+    {
+      "id": "3085",
+      "image": "Data/raw/Image\\3085.jpg",
+      "mask": "Data/raw/Mask\\3085.png"
+    },
+    {
+      "id": "1067",
+      "image": "Data/raw/Image\\1067.jpg",
+      "mask": "Data/raw/Mask\\1067.png"
+    },
+    {
+      "id": "3090",
+      "image": "Data/raw/Image\\3090.jpg",
+      "mask": "Data/raw/Mask\\3090.png"
+    },
+    {
+      "id": "1061",
+      "image": "Data/raw/Image\\1061.jpg",
+      "mask": "Data/raw/Mask\\1061.png"
+    },
+    {
+      "id": "1041",
+      "image": "Data/raw/Image\\1041.jpg",
+      "mask": "Data/raw/Mask\\1041.png"
+    },
+    {
+      "id": "3049",
+      "image": "Data/raw/Image\\3049.jpg",
+      "mask": "Data/raw/Mask\\3049.png"
+    },
+    {
+      "id": "22",
+      "image": "Data/raw/Image\\22.jpg",
+      "mask": "Data/raw/Mask\\22.png"
+    },
+    {
+      "id": "1037",
+      "image": "Data/raw/Image\\1037.jpg",
+      "mask": "Data/raw/Mask\\1037.png"
+    }
+  ],
+  "val": [
+    {
+      "id": "2022",
+      "image": "Data/raw/Image\\2022.jpg",
+      "mask": "Data/raw/Mask\\2022.png"
+    },
+    {
+      "id": "3078",
+      "image": "Data/raw/Image\\3078.jpg",
+      "mask": "Data/raw/Mask\\3078.png"
+    },
+    {
+      "id": "2052",
+      "image": "Data/raw/Image\\2052.jpg",
+      "mask": "Data/raw/Mask\\2052.png"
+    },
+    {
+      "id": "1020",
+      "image": "Data/raw/Image\\1020.jpg",
+      "mask": "Data/raw/Mask\\1020.png"
+    },
+    {
+      "id": "37",
+      "image": "Data/raw/Image\\37.jpg",
+      "mask": "Data/raw/Mask\\37.png"
+    },
+    {
+      "id": "3079",
+      "image": "Data/raw/Image\\3079.jpg",
+      "mask": "Data/raw/Mask\\3079.png"
+    },
+    {
+      "id": "1078",
+      "image": "Data/raw/Image\\1078.jpg",
+      "mask": "Data/raw/Mask\\1078.png"
+    },
+    {
+      "id": "3041",
+      "image": "Data/raw/Image\\3041.jpg",
+      "mask": "Data/raw/Mask\\3041.png"
+    },
+    {
+      "id": "1036",
+      "image": "Data/raw/Image\\1036.jpg",
+      "mask": "Data/raw/Mask\\1036.png"
+    },
+    {
+      "id": "3053",
+      "image": "Data/raw/Image\\3053.jpg",
+      "mask": "Data/raw/Mask\\3053.png"
+    },
+    {
+      "id": "3072",
+      "image": "Data/raw/Image\\3072.jpg",
+      "mask": "Data/raw/Mask\\3072.png"
+    },
+    {
+      "id": "3033",
+      "image": "Data/raw/Image\\3033.jpg",
+      "mask": "Data/raw/Mask\\3033.png"
+    },
+    {
+      "id": "1011",
+      "image": "Data/raw/Image\\1011.jpg",
+      "mask": "Data/raw/Mask\\1011.png"
+    },
+    {
+      "id": "1044",
+      "image": "Data/raw/Image\\1044.jpg",
+      "mask": "Data/raw/Mask\\1044.png"
+    },
+    {
+      "id": "14",
+      "image": "Data/raw/Image\\14.jpg",
+      "mask": "Data/raw/Mask\\14.png"
+    },
+    {
+      "id": "3088",
+      "image": "Data/raw/Image\\3088.jpg",
+      "mask": "Data/raw/Mask\\3088.png"
+    },
+    {
+      "id": "31",
+      "image": "Data/raw/Image\\31.jpg",
+      "mask": "Data/raw/Mask\\31.png"
+    },
+    {
+      "id": "3035",
+      "image": "Data/raw/Image\\3035.jpg",
+      "mask": "Data/raw/Mask\\3035.png"
+    },
+    {
+      "id": "27",
+      "image": "Data/raw/Image\\27.jpg",
+      "mask": "Data/raw/Mask\\27.png"
+    },
+    {
+      "id": "1040",
+      "image": "Data/raw/Image\\1040.jpg",
+      "mask": "Data/raw/Mask\\1040.png"
+    },
+    {
+      "id": "3051",
+      "image": "Data/raw/Image\\3051.jpg",
+      "mask": "Data/raw/Mask\\3051.png"
+    },
+    {
+      "id": "2044",
+      "image": "Data/raw/Image\\2044.jpg",
+      "mask": "Data/raw/Mask\\2044.png"
+    },
+    {
+      "id": "3024",
+      "image": "Data/raw/Image\\3024.jpg",
+      "mask": "Data/raw/Mask\\3024.png"
+    },
+    {
+      "id": "3054",
+      "image": "Data/raw/Image\\3054.jpg",
+      "mask": "Data/raw/Mask\\3054.png"
+    },
+    {
+      "id": "3064",
+      "image": "Data/raw/Image\\3064.jpg",
+      "mask": "Data/raw/Mask\\3064.png"
+    },
+    {
+      "id": "1000",
+      "image": "Data/raw/Image\\1000.jpg",
+      "mask": "Data/raw/Mask\\1000.png"
+    },
+    {
+      "id": "2004",
+      "image": "Data/raw/Image\\2004.jpg",
+      "mask": "Data/raw/Mask\\2004.png"
+    },
+    {
+      "id": "1050",
+      "image": "Data/raw/Image\\1050.jpg",
+      "mask": "Data/raw/Mask\\1050.png"
+    },
+    {
+      "id": "2032",
+      "image": "Data/raw/Image\\2032.jpg",
+      "mask": "Data/raw/Mask\\2032.png"
+    },
+    {
+      "id": "1",
+      "image": "Data/raw/Image\\1.jpg",
+      "mask": "Data/raw/Mask\\1.png"
+    },
+    {
+      "id": "2030",
+      "image": "Data/raw/Image\\2030.jpg",
+      "mask": "Data/raw/Mask\\2030.png"
+    },
+    {
+      "id": "2002",
+      "image": "Data/raw/Image\\2002.jpg",
+      "mask": "Data/raw/Mask\\2002.png"
+    },
+    {
+      "id": "1046",
+      "image": "Data/raw/Image\\1046.jpg",
+      "mask": "Data/raw/Mask\\1046.png"
+    },
+    {
+      "id": "29",
+      "image": "Data/raw/Image\\29.jpg",
+      "mask": "Data/raw/Mask\\29.png"
+    },
+    {
+      "id": "1077",
+      "image": "Data/raw/Image\\1077.jpg",
+      "mask": "Data/raw/Mask\\1077.png"
+    },
+    {
+      "id": "3039",
+      "image": "Data/raw/Image\\3039.jpg",
+      "mask": "Data/raw/Mask\\3039.png"
+    },
+    {
+      "id": "1031",
+      "image": "Data/raw/Image\\1031.jpg",
+      "mask": "Data/raw/Mask\\1031.png"
+    },
+    {
+      "id": "3098",
+      "image": "Data/raw/Image\\3098.jpg",
+      "mask": "Data/raw/Mask\\3098.png"
+    },
+    {
+      "id": "1004",
+      "image": "Data/raw/Image\\1004.jpg",
+      "mask": "Data/raw/Mask\\1004.png"
+    },
+    {
+      "id": "3005",
+      "image": "Data/raw/Image\\3005.jpg",
+      "mask": "Data/raw/Mask\\3005.png"
+    },
+    {
+      "id": "3032",
+      "image": "Data/raw/Image\\3032.jpg",
+      "mask": "Data/raw/Mask\\3032.png"
+    },
+    {
+      "id": "32",
+      "image": "Data/raw/Image\\32.jpg",
+      "mask": "Data/raw/Mask\\32.png"
+    },
+    {
+      "id": "2009",
+      "image": "Data/raw/Image\\2009.jpg",
+      "mask": "Data/raw/Mask\\2009.png"
+    }
+  ],
+  "test": [
+    {
+      "id": "11",
+      "image": "Data/raw/Image\\11.jpg",
+      "mask": "Data/raw/Mask\\11.png"
+    },
+    {
+      "id": "1080",
+      "image": "Data/raw/Image\\1080.jpg",
+      "mask": "Data/raw/Mask\\1080.png"
+    },
+    {
+      "id": "2028",
+      "image": "Data/raw/Image\\2028.jpg",
+      "mask": "Data/raw/Mask\\2028.png"
+    },
+    {
+      "id": "1049",
+      "image": "Data/raw/Image\\1049.jpg",
+      "mask": "Data/raw/Mask\\1049.png"
+    },
+    {
+      "id": "1086",
+      "image": "Data/raw/Image\\1086.jpg",
+      "mask": "Data/raw/Mask\\1086.png"
+    },
+    {
+      "id": "1005",
+      "image": "Data/raw/Image\\1005.jpg",
+      "mask": "Data/raw/Mask\\1005.png"
+    },
+    {
+      "id": "3083",
+      "image": "Data/raw/Image\\3083.jpg",
+      "mask": "Data/raw/Mask\\3083.png"
+    },
+    {
+      "id": "3075",
+      "image": "Data/raw/Image\\3075.jpg",
+      "mask": "Data/raw/Mask\\3075.png"
+    },
+    {
+      "id": "1010",
+      "image": "Data/raw/Image\\1010.jpg",
+      "mask": "Data/raw/Mask\\1010.png"
+    },
+    {
+      "id": "1056",
+      "image": "Data/raw/Image\\1056.jpg",
+      "mask": "Data/raw/Mask\\1056.png"
+    },
+    {
+      "id": "1085",
+      "image": "Data/raw/Image\\1085.jpg",
+      "mask": "Data/raw/Mask\\1085.png"
+    },
+    {
+      "id": "3000",
+      "image": "Data/raw/Image\\3000.jpg",
+      "mask": "Data/raw/Mask\\3000.png"
+    },
+    {
+      "id": "49",
+      "image": "Data/raw/Image\\49.jpg",
+      "mask": "Data/raw/Mask\\49.png"
+    },
+    {
+      "id": "2033",
+      "image": "Data/raw/Image\\2033.jpg",
+      "mask": "Data/raw/Mask\\2033.png"
+    },
+    {
+      "id": "42",
+      "image": "Data/raw/Image\\42.jpg",
+      "mask": "Data/raw/Mask\\42.png"
+    },
+    {
+      "id": "3077",
+      "image": "Data/raw/Image\\3077.jpg",
+      "mask": "Data/raw/Mask\\3077.png"
+    },
+    {
+      "id": "1051",
+      "image": "Data/raw/Image\\1051.jpg",
+      "mask": "Data/raw/Mask\\1051.png"
+    },
+    {
+      "id": "1047",
+      "image": "Data/raw/Image\\1047.jpg",
+      "mask": "Data/raw/Mask\\1047.png"
+    },
+    {
+      "id": "3008",
+      "image": "Data/raw/Image\\3008.jpg",
+      "mask": "Data/raw/Mask\\3008.png"
+    },
+    {
+      "id": "3023",
+      "image": "Data/raw/Image\\3023.jpg",
+      "mask": "Data/raw/Mask\\3023.png"
+    },
+    {
+      "id": "3021",
+      "image": "Data/raw/Image\\3021.jpg",
+      "mask": "Data/raw/Mask\\3021.png"
+    },
+    {
+      "id": "3003",
+      "image": "Data/raw/Image\\3003.jpg",
+      "mask": "Data/raw/Mask\\3003.png"
+    },
+    {
+      "id": "1055",
+      "image": "Data/raw/Image\\1055.jpg",
+      "mask": "Data/raw/Mask\\1055.png"
+    },
+    {
+      "id": "1045",
+      "image": "Data/raw/Image\\1045.jpg",
+      "mask": "Data/raw/Mask\\1045.png"
+    },
+    {
+      "id": "3069",
+      "image": "Data/raw/Image\\3069.jpg",
+      "mask": "Data/raw/Mask\\3069.png"
+    },
+    {
+      "id": "3086",
+      "image": "Data/raw/Image\\3086.jpg",
+      "mask": "Data/raw/Mask\\3086.png"
+    },
+    {
+      "id": "1018",
+      "image": "Data/raw/Image\\1018.jpg",
+      "mask": "Data/raw/Mask\\1018.png"
+    },
+    {
+      "id": "26",
+      "image": "Data/raw/Image\\26.jpg",
+      "mask": "Data/raw/Mask\\26.png"
+    },
+    {
+      "id": "3025",
+      "image": "Data/raw/Image\\3025.jpg",
+      "mask": "Data/raw/Mask\\3025.png"
+    },
+    {
+      "id": "3091",
+      "image": "Data/raw/Image\\3091.jpg",
+      "mask": "Data/raw/Mask\\3091.png"
+    },
+    {
+      "id": "2048",
+      "image": "Data/raw/Image\\2048.jpg",
+      "mask": "Data/raw/Mask\\2048.png"
+    },
+    {
+      "id": "2029",
+      "image": "Data/raw/Image\\2029.jpg",
+      "mask": "Data/raw/Mask\\2029.png"
+    },
+    {
+      "id": "2050",
+      "image": "Data/raw/Image\\2050.jpg",
+      "mask": "Data/raw/Mask\\2050.png"
+    },
+    {
+      "id": "19",
+      "image": "Data/raw/Image\\19.jpg",
+      "mask": "Data/raw/Mask\\19.png"
+    },
+    {
+      "id": "1084",
+      "image": "Data/raw/Image\\1084.jpg",
+      "mask": "Data/raw/Mask\\1084.png"
+    },
+    {
+      "id": "3048",
+      "image": "Data/raw/Image\\3048.jpg",
+      "mask": "Data/raw/Mask\\3048.png"
+    },
+    {
+      "id": "2020",
+      "image": "Data/raw/Image\\2020.jpg",
+      "mask": "Data/raw/Mask\\2020.png"
+    },
+    {
+      "id": "9",
+      "image": "Data/raw/Image\\9.jpg",
+      "mask": "Data/raw/Mask\\9.png"
+    },
+    {
+      "id": "1017",
+      "image": "Data/raw/Image\\1017.jpg",
+      "mask": "Data/raw/Mask\\1017.png"
+    },
+    {
+      "id": "3022",
+      "image": "Data/raw/Image\\3022.jpg",
+      "mask": "Data/raw/Mask\\3022.png"
+    },
+    {
+      "id": "1068",
+      "image": "Data/raw/Image\\1068.jpg",
+      "mask": "Data/raw/Mask\\1068.png"
+    },
+    {
+      "id": "2005",
+      "image": "Data/raw/Image\\2005.jpg",
+      "mask": "Data/raw/Mask\\2005.png"
+    },
+    {
+      "id": "36",
+      "image": "Data/raw/Image\\36.jpg",
+      "mask": "Data/raw/Mask\\36.png"
+    },
+    {
+      "id": "2001",
+      "image": "Data/raw/Image\\2001.jpg",
+      "mask": "Data/raw/Mask\\2001.png"
+    }
+  ],
+  "meta": {
+    "bin_edges": [
+      0.0,
+      0.001,
+      0.05,
+      0.2,
+      0.5,
+      1.0
+    ]
+  }
+}

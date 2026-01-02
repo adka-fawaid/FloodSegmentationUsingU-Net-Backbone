@@ -1,0 +1,24 @@
+model: unet_resnet50
+encoder: resnet50
+base_c: 96
+
+optimizer: adamw
+lr: 0.001
+batch_size: 4
+epochs: 100
+
+loss_type: focal_dice
+focal_alpha: 0.25
+focal_gamma: 2.0
+bce_dice_weight: 0.5
+
+use_scheduler: true
+scheduler_type: cosine
+warmup_epochs: 5
+use_amp: true
+accum_steps: 1
+
+split_json: Data/splits/splits.json
+checkpoint_dir: Save_models
+save_name: baseline_unet_resnet50.pth
+metrics_out: Results/baseline_unet_resnet50/metrics_summary.csv
