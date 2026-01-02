@@ -131,5 +131,5 @@ mlruns/
 !docs/**/*.png
 !docs/**/*.jpg
 !README_assets/**/*
-preprocessing_flood_segmentation.pdf
-workflow_final_flood_segmentation.pdf
+!preprocessing_flood_segmentation.pdf
+!workflow_final_flood_segmentation.pdf
