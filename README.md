@@ -87,8 +87,8 @@ Each phase locks the best parameter from previous phases and tests the next para
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd UNET+FBRM
+git clone [<repository-url>](https://github.com/adka-fawaid/FloodSegmentationUsingU-Net-Resnet50.git)
+cd FloodSegmentationUsingU-Net-Resnet50
 
 # Create conda environment
 conda create -n pytorch-gnn python=3.9
