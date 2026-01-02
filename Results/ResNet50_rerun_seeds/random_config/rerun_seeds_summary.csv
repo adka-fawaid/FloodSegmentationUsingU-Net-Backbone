@@ -1,0 +1,4 @@
+model,encoder,base_c,optimizer,batch_size,lr,epochs,loss_type,focal_alpha,focal_gamma,bce_dice_weight,use_scheduler,scheduler_type,warmup_epochs,accum_steps,use_amp,config_source,seed,test_iou,test_dice,val_iou,val_dice,train_loss
+unet_resnet50,resnet50,96,adamw,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,0,0.7558,0.8418,0.7472,0.8444,-
+unet_resnet50,resnet50,96,adamw,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,42,0.7556,0.841,0.7446,0.8389,-
+unet_resnet50,resnet50,96,adamw,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,123,0.7549,0.8414,0.7489,0.8431,-
