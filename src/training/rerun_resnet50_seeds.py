@@ -82,10 +82,56 @@ def run_repeats(config_path, seeds, output_dir):
             writer.writerow(row_full)
     print(f"\n✓ Rekap hasil rerun 3 seed disimpan di: {out_csv}")
 
+def run_efficientnet_random():
+    """Run EfficientNet B1 dengan random config (3 seeds)"""
+    # Buat random config untuk EfficientNet
+    random_config = {
+        "model": "unet_efficientnet_b1",
+        "encoder": "efficientnet_b1",
+        "base_c": 96,
+        "optimizer": "adam",
+        "lr": 0.001,  # Random config: lr lebih besar
+        "batch_size": 4,
+        "epochs": 100,
+        "loss_type": "focal_dice",
+        "focal_alpha": 0.25,
+        "focal_gamma": 2.0,
+        "bce_dice_weight": 0.5,
+        "use_scheduler": True,
+        "scheduler_type": "cosine",
+        "warmup_epochs": 5,
+        "accum_steps": 1,
+        "use_amp": True,
+        "split_json": "Data/splits/splits.json",
+        "checkpoint_dir": "Save_models",
+        "save_name": "random_unet_efficientnet_b1.pth",
+        "metrics_out": "Results/unet_efficientnet_b1/random_metrics_summary.csv"
+    }
+    
+    # Simpan random config
+    config_dir = os.path.abspath("Results/OFAT_efficientnet")
+    os.makedirs(config_dir, exist_ok=True)
+    random_config_path = os.path.join(config_dir, "random_config.yaml")
+    
+    with open(random_config_path, "w") as f:
+        yaml.dump(random_config, f, default_flow_style=False)
+    
+    print(f"✓ Random config untuk EfficientNet dibuat: {random_config_path}")
+    
+    # Run dengan 3 seeds
+    output_dir = os.path.abspath("Results/EfficientNet_rerun_seeds")
+    seeds = [0, 42, 123]
+    run_repeats(random_config_path, seeds, output_dir)
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Rerun training 3x dengan seed berbeda pakai best config ResNet50")
+    parser = argparse.ArgumentParser(description="Rerun training 3x dengan seed berbeda")
     parser.add_argument("--config", default="../../Results/OFAT_resnet50/best_config.yaml", help="Path ke best config YAML")
     parser.add_argument("--output_dir", default="../../Results/ResNet50_rerun_seeds", help="Folder output rekap rerun")
+    parser.add_argument("--run_efficientnet_random", action="store_true", help="Run EfficientNet dengan random config")
     args = parser.parse_args()
-    seeds = [0, 42, 123]
-    run_repeats(args.config, seeds, args.output_dir)
+    
+    if args.run_efficientnet_random:
+        run_efficientnet_random()
+    else:
+        seeds = [0, 42, 123]
+        run_repeats(args.config, seeds, args.output_dir)

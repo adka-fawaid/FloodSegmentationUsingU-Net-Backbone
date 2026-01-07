@@ -1,0 +1,4 @@
+model,encoder,base_c,optimizer,batch_size,lr,epochs,loss_type,focal_alpha,focal_gamma,bce_dice_weight,use_scheduler,scheduler_type,warmup_epochs,accum_steps,use_amp,config_source,seed,test_iou,test_dice,val_iou,val_dice,train_loss
+unet_efficientnet_b1,efficientnet_b1,96,adam,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,0,0.7483,0.8349,0.7411,0.8394,-
+unet_efficientnet_b1,efficientnet_b1,96,adam,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,42,0.7359,0.827,0.7356,0.8358,-
+unet_efficientnet_b1,efficientnet_b1,96,adam,4,0.001,100,focal_dice,0.25,2.0,0.5,True,cosine,5,1,True,random_config.yaml,123,0.7414,0.8301,0.7501,0.8446,-
