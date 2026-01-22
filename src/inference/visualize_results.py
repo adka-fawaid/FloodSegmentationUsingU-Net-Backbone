@@ -1,18 +1,4 @@
-#!/usr/bin/env python3
-"""
-Generate visualization for 3 U-Net models in SEPARATE folders:
-1. Baseline U-Net
-2. U-Net + ResNet50
-3. U-Net + EfficientNet-B1
 
-Each folder contains: Original | Mask | Model_Pred | Error
-
-Usage:
-    python src/inference/visualize_results.py \
-        --config_baseline src/experiments/Config/unet.yaml \
-        --config_resnet50 src/experiments/Config/fbrm.yaml \
-        --config_efficientnet src/experiments/Config/unet_efficientnet.yaml
-"""
 
 import os, sys, json, argparse, csv
 sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))

@@ -10,7 +10,7 @@ Save_models/
 # ============================================================
 # PROCESSED DATA (ukuran besar, bisa di-generate ulang)
 # ============================================================
-Data/processed/
+
 
 # Optional: Uncomment jika raw data juga besar
 # Data/raw/Image/
